@@ -1,0 +1,21 @@
+#spritz-container{
+    border-top: 2px solid navy;
+    border-bottom: 2px solid navy;
+    padding: 2px;
+    width: 270px;
+}
+
+.spritz-tick{
+    border-left: 2px solid navy;
+    height: 8px;
+    margin-left: 60px;
+}
+
+#spritz-word{
+    font-size: 22px;
+    font-family: "Courier New", serif;
+}
+
+.highlighted-letter{
+    color: red;
+}
