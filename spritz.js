@@ -24,7 +24,6 @@ setInterval( function(){
     console.log("trying to update " + word);
 }, SLEEP_TIME);
 
-
 function prepareWord(word){
     
     // takes a word and space fills it at the beginning
